@@ -9,7 +9,7 @@ N. Wood (nadiaw2)
 # Search engine for indoor environment data using ElasticSearch
 
 
-### NetID: nadiaw2. I will be working on this project individually. 
+### NetID: nadiaw2. Individual
 
 ## Abstract: 
 In the age of sensors, devices and platforms collecting millions of datapoints every second, it comes necessary to be able to sift through all the data to develop insights efficiently Big data offers the solution for analyzing large amount of data and using the technique of Elasticsearch, access to data can be made faster. 
