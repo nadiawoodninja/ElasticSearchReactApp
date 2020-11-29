@@ -1,0 +1,12 @@
+/Users/nadiawood/Documents/GitHub/CourseProject/JSONPerLineToJson/JSONPerLineToJson/bin/Debug/netcoreapp3.1/JSONPerLineToJson.deps.json
+/Users/nadiawood/Documents/GitHub/CourseProject/JSONPerLineToJson/JSONPerLineToJson/bin/Debug/netcoreapp3.1/JSONPerLineToJson.runtimeconfig.json
+/Users/nadiawood/Documents/GitHub/CourseProject/JSONPerLineToJson/JSONPerLineToJson/bin/Debug/netcoreapp3.1/JSONPerLineToJson.runtimeconfig.dev.json
+/Users/nadiawood/Documents/GitHub/CourseProject/JSONPerLineToJson/JSONPerLineToJson/bin/Debug/netcoreapp3.1/JSONPerLineToJson.dll
+/Users/nadiawood/Documents/GitHub/CourseProject/JSONPerLineToJson/JSONPerLineToJson/bin/Debug/netcoreapp3.1/JSONPerLineToJson.pdb
+/Users/nadiawood/Documents/GitHub/CourseProject/JSONPerLineToJson/JSONPerLineToJson/obj/Debug/netcoreapp3.1/JSONPerLineToJson.csprojAssemblyReference.cache
+/Users/nadiawood/Documents/GitHub/CourseProject/JSONPerLineToJson/JSONPerLineToJson/obj/Debug/netcoreapp3.1/JSONPerLineToJson.AssemblyInfoInputs.cache
+/Users/nadiawood/Documents/GitHub/CourseProject/JSONPerLineToJson/JSONPerLineToJson/obj/Debug/netcoreapp3.1/JSONPerLineToJson.AssemblyInfo.cs
+/Users/nadiawood/Documents/GitHub/CourseProject/JSONPerLineToJson/JSONPerLineToJson/obj/Debug/netcoreapp3.1/JSONPerLineToJson.csproj.CoreCompileInputs.cache
+/Users/nadiawood/Documents/GitHub/CourseProject/JSONPerLineToJson/JSONPerLineToJson/obj/Debug/netcoreapp3.1/JSONPerLineToJson.dll
+/Users/nadiawood/Documents/GitHub/CourseProject/JSONPerLineToJson/JSONPerLineToJson/obj/Debug/netcoreapp3.1/JSONPerLineToJson.pdb
+/Users/nadiawood/Documents/GitHub/CourseProject/JSONPerLineToJson/JSONPerLineToJson/obj/Debug/netcoreapp3.1/JSONPerLineToJson.genruntimeconfig.cache
