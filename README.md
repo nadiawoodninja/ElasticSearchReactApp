@@ -37,7 +37,7 @@ The estimated time to complete this project is about 30-40 hours.
 Tasks and time: 
 
 ### Task
-1.	Determine how to set up, configure and deploy ElasticSearch on a cloud platform : 
+Determine how to set up, configure and deploy ElasticSearch on a cloud platform : 
 The cloud platform determination will base on the cost difference between Azure, Google and AWS. 
 Created an account on Google and hosted ElasticSearch as a hosted service on ElasticCloud. 
 
@@ -49,7 +49,7 @@ Completed
 
 
 ### Task
-2.	Migration of raw to json data to Elastic search server : 
+Migration of raw to json data to Elastic search server : 
 
 ### Hours
 3 hours	
