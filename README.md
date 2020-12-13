@@ -27,14 +27,12 @@ I will be creating a web front end in React to use ElasticSearch's App Search to
  
 Figure 1
 
-## Final Submission Report and video
-
-Please see the report and the video here. 
 
 
 
 
-===============
+
+==============================
 
 
 The estimated time to complete this project is about 30-40 hours. 
