@@ -28,3 +28,63 @@ a.	The cloud platform determination will base on the cost difference between Azu
 3.	Migration of SQL database to Elastic search server : 3 hours
 4.	Test and measure outcomes: 4 hours
 
+
+# PROGRESS REPORT
+
+Progress Report
+The estimated time to complete this project is about 30-40 hours. 
+
+Tasks and time: 
+
+### Task
+Determine how to set up, configure and deploy ElasticSearch on a cloud platform : 
+The cloud platform determination will base on the cost difference between Azure, Google and AWS. 
+Created an account on Google and hosted ElasticSearch as a hosted service on ElasticCloud. 
+
+### Hours
+15 hours 
+
+### Status
+Completed
+
+
+### Task
+Migration of raw to json data to Elastic search server : 
+
+### Hours
+3 hours	
+ 
+### Status
+Completed
+
+### Task
+Created a data ingestion pipeline to read in a file which contains json per line and convert the file into an array of jsons. Then uploaded the data to ElasticSearch Cloud.
+3.	Development and deployment of Web application: 
+Creating a CRUD application in REACT using the API to communicate with the ElasticSearch Engine.
+
+
+### Hours
+10 hours	
+
+### Status
+Started. 
+8 hours’ worth of work left. 
+
+
+
+### Task
+4.	Test and measure outcomes 	
+
+### Hours
+4 hours
+
+### Status
+Not started.
+
+
+
+## Issues: 
+
+Originally the plan was to develop a C#.NET application, but further research supported developing a front end using Node.js or React. I will be creating A CRUD (Create, read, update, delete) client using React. 
+Understanding the ElasticSearch Stack takes a lot longer than expected. Had to make very conscious decisions what to implement. 
+
