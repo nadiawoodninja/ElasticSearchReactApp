@@ -12,6 +12,7 @@ N. Wood (nadiaw2)
 
 ## Abstract: 
 In the age of sensors, devices and platforms collecting millions of datapoints every second, it comes necessary to be able to sift through all the data to develop insights efficiently Big data offers the solution for analyzing large amount of data and using the technique of Elasticsearch, access to data can be made faster. 
+
 I will be creating a web front end in React to use ElasticSearch's App Search to search documents of environmental datapoints collected by sensors (indoor air, humidity, temp etc). Currently, it is difficult to search for data in a RDMS database and it takes significant time using traditional SQL queries. The project will take the data, transfer it to ElasticSearch platform. The front end written in React will allow users to search for data. Measurable outcomes are going to be the amount of effort it takes to search for data in traditional RDMS database vs. using ElasticSearch's platform.  The planned architecture is shown in Figure1: 
  
  ![alt text](https://github.com/nadiawoodninja/CourseProject/blob/main/architecture.png)
