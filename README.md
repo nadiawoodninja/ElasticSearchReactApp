@@ -8,6 +8,8 @@ N. Wood (nadiaw2)
 # Search engine for indoor environment data using ElasticSearch
 
 ### Presentation Video
+Part 1: https://uofi.box.com/s/a9p26mi8eym9i0n3ql8d83jke6ztzjbz
+Part 2: https://uofi.box.com/s/gvsrrqsf9rpqbr48ha20slvg4m5eovky
 
 ### Final Report 
 https://github.com/nadiawoodninja/CourseProject/blob/main/CS410ProjectFinalReport.pdf
