@@ -50,8 +50,12 @@ export default function App() {
         {({ wasSearched }) => {
           return (
             <div className="App">
+            <h1 align='center'>
+              CS 410 Environmental Search Engine
+            </h1>
               <ErrorBoundary>
                 <Layout
+
                   header={<SearchBox autocompleteSuggestions={true} />}
                   sideContent={
                     <div>
