@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{48C6975E-62A6-4B12-A26E-192C9CCD41DD}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="JSONPerLineToJson/Program.cs">
     <Files>
-      <File FileName="JSONPerLineToJson/Program.cs" Line="15" Column="29" />
+      <File FileName="JSONPerLineToJson/Program.cs" Line="15" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

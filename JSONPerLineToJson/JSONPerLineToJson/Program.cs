@@ -12,6 +12,8 @@ namespace JSONPerLineToJson
             foreach (var f in Directory.EnumerateFiles("/Users/nadiawood/Documents/GitHub/CourseProject/data"))
             {
                 if (f.StartsWith(".")) continue;
+                if (!f.EndsWith(".json")) continue;
+
                 var lines = File.ReadAllLines(f);
                 var output = new List<string>();
                 output.Add("[");

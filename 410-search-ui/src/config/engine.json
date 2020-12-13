@@ -1,0 +1,45 @@
+{
+  "engineName": "environmentaldata",
+  "endpointBase": "https://0189dc168aee4f4c83d3371d52e6b812.ent-search.us-central1.gcp.cloud.es.io",
+  "searchKey": "search-3vkosxzxxi64t1jg9gcd9ums",
+  "resultFields": [
+    "batterycurrentvoltage",
+    "coord_phi",
+    "coord_theta",
+    "dataunits",
+    "batteryminimumvoltage",
+    "studyname",
+    "datatype",
+    "datavalue",
+    "studyid",
+    "vendordata",
+    "batterymaximumvoltage",
+    "coord_x",
+    "coord_y",
+    "slope",
+    "eventtimestamp",
+    "datavaluecalibratedsi",
+    "wllid",
+    "datavaluecalibratedq",
+    "coord_z",
+    "dataid",
+    "intercept",
+    "datasource",
+    "location",
+    "dataconnection",
+    "quadratic_c",
+    "placement",
+    "quadratic_b",
+    "quadratic_a",
+    "clope",
+    "id"
+  ],
+  "sortFields": [
+
+  ],
+  "facets": [
+    "datatype",
+    "dataunits"
+  ],
+  "titleField": "datatype"
+}
